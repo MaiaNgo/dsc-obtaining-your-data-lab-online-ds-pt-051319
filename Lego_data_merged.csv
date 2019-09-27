@@ -1,0 +1,4 @@
+prod_id,num_reviews,play_star_rating,review_difficulty,star_rating,val_star_rating
+630,180,4.0,Very Easy,4.8,4.6
+2304,15,4.4,Easy,4.0,3.3
+7280,85,4.1,Very Easy,3.5,2.3
