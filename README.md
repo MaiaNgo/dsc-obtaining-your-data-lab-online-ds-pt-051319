@@ -23,6 +23,7 @@ SELECT name FROM sqlite_master
 ```
 
 
+
 ```python
 # Your code here
 ```
